@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    background-image: url("background.png");
+    background-repeat: repeat;
+    background-size: 300px;
+    background-attachment: fixed;
+    color: black;
+    box-shadow: 0 0 200px rgba(0, 0, 0, 0.9) inset;
+    padding-top: 25px;
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-bottom: 20px;
+}
+
+h1{
+    background-color: black;
+    width: 30vw;
+    text-align: center;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.selection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-bottom: 30px;
+}
+
+.selection select{
+    width: 25vw;
+    height: 25px;
+    font-size: medium;
+    text-align: center;
+}
+
+.selection h2{
+    font-size: x-large;
+}
+
+.results{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.results h2{
+    background-color: rgba(0, 0, 0, 0.35);
+    width: 25vw;
+    text-align: center;
+}
+
+.results h3{
+    background-color: rgba(0, 0, 0, 0.25);
+    width: 25vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.results .resultvalue
+{
+    text-decoration: underline;
+}
+
+@media only screen and (max-width: 1000px) {
+    .selection select{
+        width: 75vw;
+    }
+
+    .results h3{
+        width: 75vw;
+    }
+
+    .results h2{
+        width: 75vw;
+    }
+
+    h1{
+        width: 75vw;
+    }
+  }
