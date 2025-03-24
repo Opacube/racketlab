@@ -69,7 +69,7 @@ function App() {
   return (
     <>
       <div className='title'>
-        <h1>Convertisseur données de raquette</h1>
+        <h1>Racket Lab</h1>
       </div>
       {jsonData && (
         <>
