@@ -37,38 +37,38 @@
             "Contrôle": 2.0,
             "Puissance": 8.0,
             "Effet": 5.5,
-            "Confort": 8.2
+            "Confort": 8.0
         },
         "Boyau":
         {
             "Contrôle": 0.7,
             "Puissance": 9.3,
-            "Effet": 7,
-            "Confort": 2
+            "Effet": 5.7,
+            "Confort": 8.2
         }
     },
     "Tension":
     {
         "16":
         {
-            "Contrôle": 3.0,
-            "Puissance": 8.0,
-            "Effet": 7.0,
-            "Confort": 8.0
-        },
-        "17":
-        {
             "Contrôle": 4.4,
             "Puissance": 10.4,
             "Effet": 10.4,
             "Confort": 10.4
         },
-        "18":
+        "17":
         {
             "Contrôle": 5.0,
             "Puissance": 9.8,
             "Effet": 9.8,
             "Confort": 9.8
+        },
+		"18":
+        {
+            "Contrôle": 5.6,
+            "Puissance": 9.2,
+            "Effet": 9.2,
+            "Confort": 9.2
         },
         "19":
         {
@@ -156,6 +156,13 @@
             "Puissance": 5.0,
             "Effet": 5.0,
             "Confort": 4.0
+        },
+		"1.275":
+        {
+            "Contrôle": 9.0,
+            "Puissance": 4.5,
+            "Effet": 4.5,
+            "Confort": 3.0
         },
         "1.3":
         {
