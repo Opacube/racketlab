@@ -1,28 +1,4 @@
 {
-    "RA":
-    {
-        "Souple 55 à 61":
-        {
-            "Contrôle": 0.00,
-            "Puissance": 8.666,
-            "Effet": 8.666,
-            "Confort": 8.666
-        },
-        "Semi rigide 62 à 68":
-        {
-            "Contrôle": 13.0,
-            "Puissance": 4.333,
-            "Effet": 4.333,
-            "Confort": 4.333
-        },
-        "Rigide 69 à +":
-        {
-            "Contrôle": 26.0,
-            "Puissance": 0.0,
-            "Effet": 0.0,
-            "Confort": 0.0
-        }
-    },
     "Cordage":
     {
         "Monofilament":
@@ -280,6 +256,86 @@
             "Puissance": 9.0,
             "Effet": 6.0,
             "Confort": 4.0
+        }
+    },
+    "Rigidité" :
+    {
+        "55/56":
+        {
+            "Contrôle": 0.00,
+            "Puissance": 8.67,
+            "Effet": 8.67,
+            "Confort": 8.67
+        },
+        "57/58":
+        {
+            "Contrôle": 2.60,
+            "Puissance": 7.81,
+            "Effet": 7.81,
+            "Confort": 7.81
+        },
+        "59/60":
+        {
+            "Contrôle": 5.20,
+            "Puissance": 6.94,
+            "Effet": 6.94,
+            "Confort": 6.94
+        },
+        "61/62":
+        {
+            "Contrôle": 7.80,
+            "Puissance": 6.07,
+            "Effet": 6.07,
+            "Confort": 6.07
+        },
+        "63/64":
+        {
+            "Contrôle": 10.4,
+            "Puissance": 5.2,
+            "Effet": 5.2,
+            "Confort": 5.2
+        },
+        "65/66":
+        {
+            "Contrôle": 13.00,
+            "Puissance": 4.33,
+            "Effet": 4.33,
+            "Confort": 4.33
+        },
+        "67/68":
+        {
+            "Contrôle": 15.6,
+            "Puissance": 3.5,
+            "Effet": 3.5,
+            "Confort": 3.5
+        },
+        "69/70":
+        {
+            "Contrôle": 18.2,
+            "Puissance": 2.6,
+            "Effet": 2.6,
+            "Confort": 2.6
+        },
+        "71/72":
+        {
+            "Contrôle": 20.8,
+            "Puissance": 1.7,
+            "Effet": 1.7,
+            "Confort": 1.7
+        },
+        "73/74":
+        {
+            "Contrôle": 23.4,
+            "Puissance": 0.9,
+            "Effet": 0.9,
+            "Confort": 0.9
+        },
+        "75/76":
+        {
+            "Contrôle": 26.00,
+            "Puissance": 0.00,
+            "Effet": 0.00,
+            "Confort": 0.00
         }
     }
 }
